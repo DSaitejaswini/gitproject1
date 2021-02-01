@@ -10,3 +10,7 @@
 - python file name(excutes a .py file)
 - mv old new(change the filename)
 - rmdir(removing directory)
+## 3 steps to git files
+- converted the files into tracking area
+- creat a snapshot by adding into staging area
+- commite the changes with massage
