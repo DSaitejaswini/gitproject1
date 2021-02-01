@@ -13,4 +13,4 @@
 ## 3 steps to git files
 - converted the files into tracking area
 - creat a snapshot by adding into staging area
-- commite the changes with massage
+- commite the changes with message
